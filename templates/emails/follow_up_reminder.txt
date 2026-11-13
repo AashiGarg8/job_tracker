@@ -1,0 +1,1 @@
+{# Level 6: plain-text body of the daily follow-up email #}

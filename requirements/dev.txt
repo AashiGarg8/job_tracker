@@ -1,0 +1,6 @@
+-r base.txt
+# Level 7
+# pytest
+# pytest-django
+# factory-boy
+# coverage

@@ -1,0 +1,12 @@
+# Packages every environment needs. Pin exact versions once installed (pip freeze).
+Django
+psycopg[binary]
+python-dotenv
+# Level 2
+# djangorestframework
+# django-filter
+# Level 3
+# djangorestframework-simplejwt
+# Level 6
+# celery
+# redis
