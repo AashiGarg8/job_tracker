@@ -1,7 +1,7 @@
 # Packages every environment needs. Pin exact versions once installed (pip freeze).
-Django
-psycopg[binary]
-python-dotenv
+Django         6.1.3
+psycopg-binary 3.3.9
+python-dotenv  1.2.4
 # Level 2
 # djangorestframework
 # django-filter
